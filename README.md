@@ -2,19 +2,21 @@
 
 [Skills][1] | [Projects][2] | [Experience][3] | [Interests][4] | [Instagram][5] | [Pinterest][6]
 
-I have spent 10 years in the media and entertainment industry but have been frustrated by the lack of proprietary tech in the companies I've worked for and having always had a keen desire to create and build things with my own hands I am excited to now be learning to code at Makers Academy and particularly looking forward to dive into Object Oriented Design. With passions spread across music, film, fashion, literature, tech and design I'm looking for a junior developer role that will enable me to build my software craft while combining it with my interests and benefiting from my previous industry know-how. I am determined to apply myself to the growth of a dynamic organisation – not just fulfil a job specification.
+I have spent 10 years in the media and entertainment industry but have been frustrated by the lack of proprietary tech in the companies I've worked for and having always had a keen desire to create and build things with my own hands I am excited to now be learning to code at Makers Academy. I am particularly looking forward to studying Object Oriented Design.
+
+With passions spread across music, film, fashion, literature, tech and design I'm looking for a junior developer role that will enable me to build my software craft while combining it with my interests and benefiting from my previous industry know-how. I am determined to apply myself to the growth of a dynamic organisation – not just fulfil a job specification.
 
 ## Skills
 
-_I'm good at:_
+#### Generally:
 - Getting stuff done
 - Not giving up
 - Attention to detail
-- Communication (I've spent 10 years writing emails and talking for a living!)
+- Communication (I've spent a decade writing emails and talking for a living!)
 - Iterating and improving on things (I'm iterating over my career by learning to code)
 - Questioning things (I'm a [Questioner][7])
 - Doing things with my hands (sewing, drawing, folding gyoza dumplings)
-- Taking inspiration from around me (I made a series of plaster candle holders after [this exhibition][8] )
+- Taking inspiration from around me (I made a series of plaster candle holders after [this exhibition][8]!)
 
 #### Project Management
 Planning and execution of projects is my thing. I thrive on making sure things have my high standards and are efficient in a fast paced with multiple stakeholders.
@@ -30,12 +32,12 @@ I have built expertise in the digital media landscape across social media, onlin
 
 ## Code Projects
 
-| Project             | Description                                               | Technologies  |
-| ------------------- |:--------------------------------------------------------- | -------------:|
-| TicTacToe           | Two player command line game                              | Ruby          |
-| Student Directory   | Command line tool to save and view student info to a file | Ruby          |
+| Project               | Description                                                   | Technologies   |
+| --------------------- |:------------------------------------------------------------- | :------------- |
+| Tic Tac Toe           | Two player command line game.                                 | Ruby           |
+| Student Directory     | Command line tool to view and save student info to a file.    | Ruby           |
 
-You can see all work to date at [Github][15].
+You can see all work to date at [GitHub][15].
 
 ## Education
 
@@ -85,10 +87,14 @@ On the board for the charitable organisation that runs two of the UK’s leading
 
 ## Interests
 **Art & Design** (which means scrolling the internet and when I really love something adding it to my [Pinterest][6] boards or countless folders of photos and screen shots)
+
 **Cooking** (and creating table layouts to match,
 favourite cookbooks are [Bar Tartine][16], [Anna Jones][17] and [Ottolenghi][18])
+
 **Learning Danish** (unfortunately not so useful)
+
 **Reading** (I read fiction everyday. Favourite books include [I Captured The Castle][19], [The End of The Affair][20] and [Vile Bodies][21])
+
 **Being Active** (I hate the confines of a gym so running, pilates, yoga, swimming and [speedminton][22])
 
 [1]: [Skills]

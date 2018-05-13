@@ -2,30 +2,33 @@
 
 [Skills][1] | [Projects][2] | [Experience][3] | [Interests][4] | [Instagram][5] | [Pinterest][6]
 
-I have spent 10 years in the media and entertainment industry but have been frustrated by the lack of proprietary tech in the companies I've worked for and having always had a keen desire to create and build things with my own hands I am excited to now be learning to code at Makers Academy. I am particularly looking forward to studying Object Oriented Design.
+Having always had a keen desire to create and build things with my own hands I am excited to now be learning to code at Makers Academy. I am particularly looking forward to studying Object Oriented Design.
 
-With passions spread across music, film, fashion, literature, tech and design I'm looking for a junior developer role that will enable me to build my software craft while combining it with my interests and benefiting from my previous industry know-how. I am determined to apply myself to the growth of a dynamic organisation – not just fulfil a job specification.
+I have spent 10 years in the media and entertainment industry and have been frustrated by the lack of proprietary tech in the companies I've worked for. With interests spanning music, film, fashion, literature, tech and design I'm looking for a junior developer role that will enable me to build my skills, combine it with my passions and benefit from my previous industry know-how.
+
+I am determined to apply myself to the growth of a dynamic organisation – not just fulfil a job specification.
 
 ## Skills
 
-#### Generally:
+#### Generally
 - Getting stuff done
 - Not giving up
 - Attention to detail
 - Communication (I've spent a decade writing emails and talking for a living!)
-- Iterating and improving on things (I'm iterating over my career by learning to code)
+- Iterating and improving on things
 - Questioning things (I'm a [Questioner][7])
-- Doing things with my hands (sewing, drawing, folding gyoza dumplings)
+- Doing things with my hands (anything from repotting plants to folding dumplings)
 - Taking inspiration from around me (I made a series of plaster candle holders after [this exhibition][8]!)
 
 #### Project Management
-Planning and execution of projects is my thing. I thrive on making sure things have my high standards and are efficient in a fast paced with multiple stakeholders.
+Planning and execution is my thing. I thrive on making sure my high standards are upheld, delivering in a fast-paced environment with multiple stakeholders.
 
 - Worked with the likes of The Prodigy, Rita Ora, Take That, Zoella, KSI and Tanya Burr.
+- Routed and planned large music tours across the world.
 - Built and led three person team of project managers delivering influencer marketing campaigns.
 
-#### Influencer Marketing
-I have built expertise in the digital media landscape across social media, online advertising and online video with particular focus on how influencers can work collaboratively with brands. About 8 years ago I gave up buying print media and switched to online alternatives, with a clear trajectory - broadsheet newspapers >> scrolling online, magazines >> blogs, blogs >> Instagram feeds, instruction books >> YouTube videos.
+#### Marketing & Media
+I have gained expertise in social media, online advertising and online video with particular focus on how influencers can work collaboratively with brands. About 8 years ago I gave up buying print media and switched to online alternatives, with a clear trajectory - broadsheet newspapers >> scrolling online, magazines >> blogs, blogs >> Instagram feeds, instruction books >> YouTube videos.
 
 - Generated +160 million YouTube views and engagements on brand sponsored projects including [H&M][9], [Pandora][10], [Disney][11], [Visit The USA][12], [EE][13] and [Rimmel][14].
 - Developed trust with media agency teams at Zenith, OMD, Publicis and MediaCom through sharing of specialist knowledge in the influencer space and dedicated servicing.
@@ -64,7 +67,7 @@ You can see all work to date at [GitHub][15].
 **Live Events Manager: Gleam Futures, London** (October 2014 - February 2015)   
 - Planning and delivering 7 large live events for top British YouTubers including Zoella, Alfie Deyes, Sprinkle of Glitter and The Saconne Jolys. Decided to not continue past probation.
 
-**Assistant Music Agent: William Morris Endeavor Entertainment, London** (February 2011 - October 2015)   
+**Assistant Music Agent: William Morris Endeavor Entertainment, London** (February 2011 - October 2014)   
 - Client facing on rosters including The Prodigy, Rita Ora, Take That, Wiley and Cheryl Cole.
 - Handling booking requests, negotiating financial deals and confirming shows around the world.
 - Building professional relationships with promoters and venues and generating new business.
@@ -88,14 +91,15 @@ On the board for the charitable organisation that runs two of the UK’s leading
 ## Interests
 **Art & Design** (which means scrolling the internet and when I really love something adding it to my [Pinterest][6] boards or countless folders of photos and screen shots)
 
-**Cooking** (and creating table layouts to match,
-favourite cookbooks are [Bar Tartine][16], [Anna Jones][17] and [Ottolenghi][18])
+**Cooking** (and creating table layouts to match, favourite cookbooks are [Bar Tartine][16], [Anna Jones][17] and [Ottolenghi][18])
 
 **Learning Danish** (unfortunately not so useful)
 
-**Reading** (I read fiction everyday. Favourite books include [I Captured The Castle][19], [The End of The Affair][20] and [Vile Bodies][21])
+**Reading** (I read fiction every day. Favourite books include [I Capture The Castle][19], [The End of The Affair][20] and [Vile Bodies][21])
 
 **Being Active** (I hate the confines of a gym so running, pilates, yoga, swimming and [speedminton][22])
+
+**Minimalism** (if it’s not useful or super beautiful, why bother buying it, keeping it, making it, spending time and energy on it)
 
 [1]: [Skills]
 [2]: [Projects]

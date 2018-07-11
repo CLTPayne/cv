@@ -1,6 +1,6 @@
 ## Charlotte Payne
 
-[Projects][##code projects] | [Skills][##skills] | [Experience][##professional experience] | [Interests][##interests] | [Pinterest][1] | [Instagram][2]
+[Projects](##code projects) | [Skills](##skills) | [Experience](##professional experience) | [Interests](##interests) | [Pinterest][1] | [Instagram][2]
 
 Having always had a keen desire to create and build things with my own hands I am excited to now be learning to code at Makers Academy. I am particularly enjoying JavaScript and am eager to explore more design patterns. From day one, I've documented my learning experience here on [Instagram][2].
 

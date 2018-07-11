@@ -1,24 +1,48 @@
 ## Charlotte Payne
 
-[Skills][1] | [Projects][2] | [Experience][3] | [Interests][4] | [Instagram][5] | [Pinterest][6]
+[Projects][##code projects] | [Skills][##skills] | [Experience][##professional experience] | [Interests][##interests] | [Pinterest][1] | [Instagram][2]
 
-Having always had a keen desire to create and build things with my own hands I am excited to now be learning to code at Makers Academy. I am particularly looking forward to studying Object Oriented Design.
+Having always had a keen desire to create and build things with my own hands I am excited to now be learning to code at Makers Academy. I am particularly enjoying JavaScript and am eager to explore more design patterns. From day one, I've documented my learning experience here on [Instagram][2].
 
-I have spent 10 years in the media and entertainment industry and have been frustrated by the lack of proprietary tech in the companies I've worked for. With interests spanning music, film, fashion, literature, tech and design I'm looking for a junior developer role that will enable me to build my skills, combine it with my passions and benefit from my previous industry know-how.
+I have spent 10 years in the media and entertainment industry and have crept closer and closer to tech products but been frustrated that I couldn't improve them myself. With interests spanning music, film, fashion, literature and design I'm looking for a junior developer role that will enable me to learn constantly, build my skills and benefit from my previous industry know-how.
 
 I am determined to apply myself to the growth of a dynamic organisation – not just fulfil a job specification.
 
+## Code Projects
+
+| Project               | Description                                                   | Technologies   | Testing |
+| --------------------- |:------------------------------------------------------------- | :------------- | :-------|
+| [News Summary Feed][3]     | Week 7 single page web app to summarise the top headlines via the Guardian API and the Aylien Text Summary API | vanilla JavaScript | vanilla JavaScript |
+| [Bowling Score Card][4]    | Week 6 full stack challenge to calculate the score of a game with all bonus scenarios covered and web interface.                                 | JavaScript, JQuery, HTML, CSS | Jasmine         |
+| [Rock Paper Scissors][5]     | Week 3 single player web app       | Ruby, Sinatra          | RSpec, Capybara |
+| [Word Map][6]     | Work in progress. Personal passion project exploring text and mapping data with the aim of an interactive visualisation | Ruby, PSQL | RSpec |
+
+You can see all work to date at [GitHub][15].
+
 ## Skills
 
-#### Generally
-- Getting stuff done
-- Not giving up
-- Attention to detail
+#### Day-to-day
+- Getting stuff done (completing the Makers Academy pre-course while in a senior full time position)
+- Not giving up (using Twitter to convince a music artist to perform at a festival for a fraction of their fee)
+- Attention to detail (I love how my git config keeps my commit summary to maximum 50 characters)
 - Communication (I've spent a decade writing emails and talking for a living!)
-- Iterating and improving on things
+- Iterating and improving on things (it's taken a year of effort but I can finally do a wheel in yoga, and hold it)
 - Questioning things (I'm a [Questioner][7])
-- Doing things with my hands (anything from repotting plants to folding dumplings)
+- Doing things with my hands (anything from repotting plants to folding Japanese dumplings)
 - Taking inspiration from around me (I made a series of plaster candle holders after [this exhibition][8]!)
+
+### Clean Code
+I see code as a visual artefact and clean code can even be a beautiful abstract pattern (amplified by the Dracula theme).
+
+- Implementing the principles of DRY and SOLID
+- Advocating consistent commit style and reviewing code for readability on group projects   
+
+#### Pair Programming
+I prioritise taking the time to understand the other person's needs and goals in order to set up a shared approach to the task.
+
+- Received consistent peer feedback stating that I'm considerate and thoughtful while remaining focused on the goal and having a methodical approach
+- Regularly seek out senior developers to pair with in personal time
+- Dedicated to the emotional intelligence curriculum at Makers
 
 #### Project Management
 Planning and execution is my thing. I thrive on making sure my high standards are upheld, delivering in a fast-paced environment with multiple stakeholders.
@@ -28,30 +52,19 @@ Planning and execution is my thing. I thrive on making sure my high standards ar
 - Built and led three person team of project managers delivering influencer marketing campaigns.
 
 #### Marketing & Media
-I have gained expertise in social media, online advertising and online video with particular focus on how influencers can work collaboratively with brands. About 8 years ago I gave up buying print media and switched to online alternatives, with a clear trajectory - broadsheet newspapers >> scrolling online, magazines >> blogs, blogs >> Instagram feeds, instruction books >> YouTube videos.
+I have gained expertise in social media, online advertising and online video with particular focus on how influencers can work collaboratively with brands. About 8 years ago I gave up buying print media and switched to online alternatives, with a clear trajectory in my consumption: magazines and newspapers >> blogs and Instagram feeds for culture and inspiration >> YouTube videos for instruction.
 
 - Generated +160 million YouTube views and engagements on brand sponsored projects including [H&M][9], [Pandora][10], [Disney][11], [Visit The USA][12], [EE][13] and [Rimmel][14].
-- Developed trust with media agency teams at Zenith, OMD, Publicis and MediaCom through sharing of specialist knowledge in the influencer space and dedicated servicing.
-
-## Code Projects
-
-| Project               | Description                                                   | Technologies   |
-| --------------------- |:------------------------------------------------------------- | :------------- |
-| Tic Tac Toe           | Two player command line game.                                 | Ruby           |
-| Student Directory     | Command line tool to view and save student info to a file.    | Ruby           |
-
-You can see all work to date at [GitHub][15].
-
-## Education
-
-**Makers Academy** (May 2018 to August 2018)
-- Highly selective software developer bootcamp
-
-**University of Birmingham** (September 2005 to July 2008)
-- B.A. English and History with Honors (First Class)
-- Awarded annual prize - Most Proficient in English Literature
+- Developed trust with media agency teams at Zenith, OMD, Publicis and MediaCom through sharing of specialist knowledge in the influencer space and dedicated client servicing.
 
 ## Professional Experience
+
+**Makers Academy** (May 2018 to August 2018)
+- Immersive and highly selective software development course.
+- Focused on OO design in Ruby, JavaScript and Java.
+- TDD approach to software across RSpec, Capybara, Jasmine and Junit.
+- Daily pair programming and multiple team software projects.
+- Dedicated to using Git.
 
 **Head of Sales Operations: Studio 71, London** (March 2017 - May 2018)    
 - Overseeing the delivery of all influencer marketing campaigns for our brand partners.
@@ -88,6 +101,12 @@ Introduction to working with film and darkroom printing techniques.
 **Board of Directors for Town Hall and Symphony Hall, Birmingham** (February 2011 - October 2013)   
 On the board for the charitable organisation that runs two of the UK’s leading performance venues.
 
+## Education
+
+**University of Birmingham** (September 2005 to July 2008)
+- B.A. English and History with Honours (First Class)
+- Awarded annual prize - Most Proficient in English Literature
+
 ## Interests
 **Art & Design** (which means scrolling the internet and when I really love something adding it to my [Pinterest][6] boards or countless folders of photos and screen shots)
 
@@ -99,14 +118,14 @@ On the board for the charitable organisation that runs two of the UK’s leading
 
 **Being Active** (I hate the confines of a gym so running, pilates, yoga, swimming and [speedminton][22])
 
-**Minimalism** (if it’s not useful or super beautiful, why bother buying it, keeping it, making it, spending time and energy on it)
+**Minimalism** (if it’s not useful or super beautiful, why bother buying it, keeping it, making it or spending time on it)
 
-[1]: [Skills]
-[2]: [Projects]
-[3]: [Experience]
-[4]: [Interests]
-[5]: https://www.instagram.com/coder_charlotte/
-[6]: https://www.pinterest.co.uk/cltpayne/
+[1]: https://www.pinterest.co.uk/cltpayne/
+[2]: https://www.instagram.com/coder_charlotte/
+[3]: https://github.com/CLTPayne/news-summary-challenge
+[4]: https://github.com/CLTPayne/bowling-challenge
+[5]: https://github.com/CLTPayne/rps-challenge
+[6]: https://github.com/CLTPayne/wordmap
 [7]: https://gretchenrubin.com/2015/01/ta-da-the-launch-of-my-quiz-on-the-four-tendencies-learn-about-yourself/
 [8]: http://www.tate.org.uk/whats-on/tate-britain/exhibition/rachel-whiteread
 [9]: https://www.youtube.com/watch?v=6JdenEFYDOE

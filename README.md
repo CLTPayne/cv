@@ -1,6 +1,6 @@
 ## Charlotte Payne
 
-[Projects](##codeprojects) | [Skills](#skills) | [Experience](#professionalexperience) | [Interests](#interests) | [Pinterest][1] | [Instagram][2]
+[Projects](##code) | [Skills](#skills) | [Experience](#professional) | [Interests](#interests) | [Pinterest][1] | [Instagram][2]
 
 Having always had a keen desire to create and build things with my own hands I am excited to now be learning to code at Makers Academy. I am particularly enjoying JavaScript and am eager to explore more design patterns. From day one, I've documented my learning experience here on [Instagram][2].
 
@@ -31,7 +31,7 @@ You can see all work to date at [GitHub][15].
 - Doing things with my hands (anything from repotting plants to folding Japanese dumplings)
 - Taking inspiration from around me (I made a series of plaster candle holders after [this exhibition][8]!)
 
-### Clean Code
+#### Clean Code
 I see code as a visual artefact and clean code can even be a beautiful abstract pattern (amplified by the Dracula theme).
 
 - Implementing the principles of DRY and SOLID

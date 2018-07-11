@@ -1,6 +1,6 @@
 ## Charlotte Payne
 
-[Projects](##code) | [Skills](#skills) | [Experience](#professional) | [Interests](#interests) | [Pinterest][1] | [Instagram][2]
+[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Interests](#interests) | [Pinterest][1] | [Instagram][2]
 
 Having always had a keen desire to create and build things with my own hands I am excited to now be learning to code at Makers Academy. I am particularly enjoying JavaScript and am eager to explore more design patterns. From day one, I've documented my learning experience here on [Instagram][2].
 
@@ -8,7 +8,7 @@ I have spent 10 years in the media and entertainment industry and have crept clo
 
 I am determined to apply myself to the growth of a dynamic organisation – not just fulfil a job specification.
 
-## Code Projects
+## Projects
 
 | Project               | Description                                                   | Technologies   | Testing |
 | --------------------- |:------------------------------------------------------------- | :------------- | :-------|
@@ -57,7 +57,7 @@ I have gained expertise in social media, online advertising and online video wit
 - Generated +160 million YouTube views and engagements on brand sponsored projects including [H&M][9], [Pandora][10], [Disney][11], [Visit The USA][12], [EE][13] and [Rimmel][14].
 - Developed trust with media agency teams at Zenith, OMD, Publicis and MediaCom through sharing of specialist knowledge in the influencer space and dedicated client servicing.
 
-## Professional Experience
+## Experience
 
 **Makers Academy** (May 2018 to August 2018)
 - Immersive and highly selective software development course.

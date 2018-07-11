@@ -1,6 +1,6 @@
 ## Charlotte Payne
 
-[Projects](##code projects) | [Skills](##skills) | [Experience](##professional experience) | [Interests](##interests) | [Pinterest][1] | [Instagram][2]
+[Projects](##codeprojects) | [Skills](#skills) | [Experience](#professionalexperience) | [Interests](#interests) | [Pinterest][1] | [Instagram][2]
 
 Having always had a keen desire to create and build things with my own hands I am excited to now be learning to code at Makers Academy. I am particularly enjoying JavaScript and am eager to explore more design patterns. From day one, I've documented my learning experience here on [Instagram][2].
 
@@ -15,7 +15,7 @@ I am determined to apply myself to the growth of a dynamic organisation – not 
 | [News Summary Feed][3]     | Week 7 single page web app to summarise the top headlines via the Guardian API and the Aylien Text Summary API | vanilla JavaScript | vanilla JavaScript |
 | [Bowling Score Card][4]    | Week 6 full stack challenge to calculate the score of a game with all bonus scenarios covered and web interface.                                 | JavaScript, JQuery, HTML, CSS | Jasmine         |
 | [Rock Paper Scissors][5]     | Week 3 single player web app       | Ruby, Sinatra          | RSpec, Capybara |
-| [Word Map][6]     | Work in progress. Personal passion project exploring text and mapping data with the aim of an interactive visualisation | Ruby, PSQL | RSpec |
+| [Word Map][6]     | Work in progress. Personal passion project exploring text and mapping text based data with the aim of an interactive visualisation | Ruby, PSQL | RSpec |
 
 You can see all work to date at [GitHub][15].
 

@@ -4,7 +4,7 @@
 
 Having always had a keen desire to create and build things with my own hands I am excited to now be learning to code at Makers Academy. I am particularly enjoying JavaScript and am eager to explore more design patterns. From day one, I've documented my learning experience here on [Instagram][2].
 
-I have spent 10 years in the media and entertainment industry and have crept closer and closer to tech products but been frustrated that I couldn't improve them myself. With interests spanning music, film, fashion, literature and design I'm looking for a junior developer role that will enable me to learn constantly, build my skills and benefit from my previous industry know-how.
+I have spent 10 years in the media and entertainment industry and have crept closer to tech products while becoming more and more curious about how they work and how to improve them. With interests spanning music, film, fashion, literature and design I'm looking for a junior developer role that will enable me to learn constantly, build my skills and benefit from my previous industry know-how.
 
 I am determined to apply myself to the growth of a dynamic organisation – not just fulfil a job specification.
 
@@ -22,14 +22,10 @@ You can see all work to date at [GitHub][15].
 ## Skills
 
 #### Day-to-day
-- Getting stuff done (completing the Makers Academy pre-course while in a senior full time position)
-- Not giving up (using Twitter to convince a music artist to perform at a festival for a fraction of their fee)
+- Getting stuff done (in previous roles I was always the person people looked towards to make things happen)
 - Attention to detail (I love how my git config keeps my commit summary to maximum 50 characters)
 - Communication (I've spent a decade writing emails and talking for a living!)
 - Iterating and improving on things (it's taken a year of effort but I can finally do a wheel in yoga, and hold it)
-- Questioning things (I'm a [Questioner][7])
-- Doing things with my hands (anything from repotting plants to folding Japanese dumplings)
-- Taking inspiration from around me (I made a series of plaster candle holders after [this exhibition][8]!)
 
 #### Clean Code
 I see code as a visual artefact and clean code can even be a beautiful abstract pattern (amplified by the Dracula theme).
@@ -126,8 +122,6 @@ On the board for the charitable organisation that runs two of the UK’s leading
 [4]: https://github.com/CLTPayne/bowling-challenge
 [5]: https://github.com/CLTPayne/rps-challenge
 [6]: https://github.com/CLTPayne/wordmap
-[7]: https://gretchenrubin.com/2015/01/ta-da-the-launch-of-my-quiz-on-the-four-tendencies-learn-about-yourself/
-[8]: http://www.tate.org.uk/whats-on/tate-britain/exhibition/rachel-whiteread
 [9]: https://www.youtube.com/watch?v=6JdenEFYDOE
 [10]: https://www.instagram.com/p/Bcm98HjgFwR/?hl=en&taken-by=thepatriciabright
 [11]: https://www.youtube.com/watch?v=4X0-_roNgOQ

@@ -1,4 +1,4 @@
-## Charlotte Payne
+## Charlotte Payne (cltpayne@gmail.com)
 
 [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Interests](#interests) | [Pinterest][1] | [Instagram][2]
 

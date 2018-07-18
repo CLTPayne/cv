@@ -12,10 +12,11 @@ I am determined to apply myself to the growth of a dynamic organisation – not 
 
 | Project               | Description                                                   | Technologies   | Testing |
 | --------------------- |:------------------------------------------------------------- | :------------- | :-------|
-| [News Summary Feed][3]     | Week 7 single page web app to summarise the top headlines via the Guardian API and the Aylien Text Summary API | vanilla JavaScript | vanilla JavaScript |
-| [Bowling Score Card][4]    | Week 6 full stack challenge to calculate the score of a game with all bonus scenarios covered and web interface.                                 | JavaScript, JQuery, HTML, CSS | Jasmine         |
-| [Rock Paper Scissors][5]     | Week 3 single player web app       | Ruby, Sinatra          | RSpec, Capybara |
-| [Word Map][6]     | Work in progress. Personal passion project exploring text and mapping text based data with the aim of an interactive visualisation | Ruby, PSQL | RSpec |
+| [Bank Tech Test][3]   | Week 10 simple terminal app showcasing test driven development and Object Oriented Design principles | Ruby | RSpec|
+| [News Summary Feed][4]     | Week 7 single page web app to summarise the top headlines via the Guardian API and the Aylien Text Summary API | vanilla JavaScript | vanilla JavaScript |
+| [Bowling Score Card][5]    | Week 6 full stack challenge to calculate the score of a game with all bonus scenarios covered and web interface.                                 | JavaScript, JQuery, HTML, CSS | Jasmine         |
+| [Rock Paper Scissors][6]     | Week 3 single player web app       | Ruby, Sinatra          | RSpec, Capybara |
+| [Word Map][7]     | Work in progress. Personal passion project exploring text and mapping text based data with the aim of an interactive visualisation | Ruby, PSQL | RSpec |
 
 You can see all work to date at [GitHub][15].
 
@@ -60,7 +61,7 @@ I have gained expertise in social media, online advertising and online video wit
 - Focused on OO design in Ruby, JavaScript and Java.
 - TDD approach to software across RSpec, Capybara, Jasmine and Junit.
 - Daily pair programming and multiple team software projects.
-- Dedicated to using Git.
+- Committed to using Git.
 
 **Head of Sales Operations: Studio 71, London** (March 2017 - May 2018)    
 - Overseeing the delivery of all influencer marketing campaigns for our brand partners.
@@ -118,10 +119,12 @@ On the board for the charitable organisation that runs two of the UK’s leading
 
 [1]: https://www.pinterest.co.uk/cltpayne/
 [2]: https://www.instagram.com/coder_charlotte/
-[3]: https://github.com/CLTPayne/news-summary-challenge
-[4]: https://github.com/CLTPayne/bowling-challenge
-[5]: https://github.com/CLTPayne/rps-challenge
-[6]: https://github.com/CLTPayne/wordmap
+[3]: https://github.com/CLTPayne/bank-tech-test
+[4]: https://github.com/CLTPayne/news-summary-challenge
+[5]: https://github.com/CLTPayne/bowling-challenge
+[6]: https://github.com/CLTPayne/rps-challenge
+[7]: https://github.com/CLTPayne/wordmap
+
 [9]: https://www.youtube.com/watch?v=6JdenEFYDOE
 [10]: https://www.instagram.com/p/Bcm98HjgFwR/?hl=en&taken-by=thepatriciabright
 [11]: https://www.youtube.com/watch?v=4X0-_roNgOQ

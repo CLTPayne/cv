@@ -12,11 +12,11 @@ I am determined to apply myself to the growth of a dynamic organisation – not 
 
 | Project               | Description                                                   | Technologies   | Testing |
 | --------------------- |:------------------------------------------------------------- | :------------- | :-------|
-| [Bank Tech Test][3]   | Week 10 simple terminal app showcasing test driven development and Object Oriented Design principles | Ruby | RSpec|
-| [News Summary Feed][4]     | Week 7 single page web app to summarise the top headlines via the Guardian API and the Aylien Text Summary API | vanilla JavaScript | vanilla JavaScript |
-| [Bowling Score Card][5]    | Week 6 full stack challenge to calculate the score of a game with all bonus scenarios covered and web interface.                                 | JavaScript, JQuery, HTML, CSS | Jasmine         |
-| [Rock Paper Scissors][6]     | Week 3 single player web app       | Ruby, Sinatra          | RSpec, Capybara |
-| [Word Map][7]     | Work in progress. Personal passion project exploring text and mapping text based data with the aim of an interactive visualisation | Ruby, PSQL | RSpec |
+| [Donate, Period ][3]   | Week 11 & 12 full stack group project using the JustGiving API to create a charitable donations platform with React front-end built from scratch (rather than create-react-app) | React, Node, Express, Sequelize, Webpack, Bootstrap | Jest, Enzyme, Mocha, Chai, Cypress |
+| [Bank Tech Test][4]   | Week 10 simple terminal app showcasing test driven development and Object Oriented Design principles | Ruby | RSpec|
+| [News Summary Feed][5]     | Week 7 single page web app to summarise the top headlines via the Guardian API and the Aylien Text Summary API | vanilla JavaScript | vanilla JavaScript |
+| [Rock Paper Scissors][7]     | Week 3 single player web app       | Ruby, Sinatra          | RSpec, Capybara |
+| [Word Map][8]     | Work in progress. Personal passion project exploring text and mapping text based data with the aim of an interactive graphical visualisation | Ruby, PSQL | RSpec |
 
 You can see all work to date at [GitHub][15].
 
@@ -59,7 +59,7 @@ I have gained expertise in social media, online advertising and online video wit
 **Makers Academy** (May 2018 to August 2018)
 - Immersive and highly selective software development course.
 - Focused on OO design in Ruby, JavaScript and Java.
-- TDD approach to software across RSpec, Capybara, Jasmine and Junit.
+- TDD approach to software across Jest, Mocha, RSpec, Capybara, Jasmine and Junit.
 - Daily pair programming and multiple team software projects.
 - Committed to using Git.
 
@@ -107,7 +107,7 @@ On the board for the charitable organisation that runs two of the UK’s leading
 ## Interests
 **Art & Design** (which means scrolling the internet and when I really love something adding it to my [Pinterest][6] boards or countless folders of photos and screen shots)
 
-**Cooking** (and creating table layouts to match, favourite cookbooks are [Bar Tartine][16], [Anna Jones][17] and [Ottolenghi][18])
+**Cooking** (and creating table settings to match, favourite cookbooks are [Bar Tartine][16], [Anna Jones][17] and [Ottolenghi][18])
 
 **Learning Danish** (unfortunately not so useful)
 
@@ -119,11 +119,12 @@ On the board for the charitable organisation that runs two of the UK’s leading
 
 [1]: https://www.pinterest.co.uk/cltpayne/
 [2]: https://www.instagram.com/coder_charlotte/
-[3]: https://github.com/CLTPayne/bank-tech-test
-[4]: https://github.com/CLTPayne/news-summary-challenge
-[5]: https://github.com/CLTPayne/bowling-challenge
-[6]: https://github.com/CLTPayne/rps-challenge
-[7]: https://github.com/CLTPayne/wordmap
+[3]: https://github.com/simone-smith/donate-period
+[4]: https://github.com/CLTPayne/bank-tech-test
+[5]: https://github.com/CLTPayne/news-summary-challenge
+[6]: https://github.com/CLTPayne/bowling-challenge
+[7]: https://github.com/CLTPayne/rps-challenge
+[8]: https://github.com/CLTPayne/wordmap
 
 [9]: https://www.youtube.com/watch?v=6JdenEFYDOE
 [10]: https://www.instagram.com/p/Bcm98HjgFwR/?hl=en&taken-by=thepatriciabright

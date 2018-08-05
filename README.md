@@ -2,7 +2,7 @@
 
 [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Interests](#interests) | [Pinterest][1] | [Instagram][2]
 
-Having always had a keen desire to create and build things with my own hands I am excited to now be learning to code at Makers Academy. I am particularly enjoying JavaScript and am eager to explore more design patterns. From day one, I've documented my learning experience here on [Instagram][2].
+Having always had a keen desire to create and build things with my own hands I have loved learning to code at Makers Academy. I am particularly enjoying JavaScript and am eager to explore more design patterns. From day one, I've documented my learning experience here on [Instagram][2].
 
 I have spent 10 years in the media and entertainment industry and have crept closer to tech products while becoming more and more curious about how they work and how to improve them. With interests spanning music, film, fashion, literature and design I'm looking for a junior developer role that will enable me to learn constantly, build my skills and benefit from my previous industry know-how.
 

@@ -12,7 +12,7 @@ I am determined to apply myself to the growth of a dynamic organisation – not 
 
 | Project               | Description                                                   | Technologies   | Testing |
 | --------------------- |:------------------------------------------------------------- | :------------- | :-------|
-| [Donate, Period ][3]   | Week 11 & 12 full stack group project using the JustGiving API to create a charitable donations platform with React front-end built from scratch (rather than create-react-app) | React, Node, Express, Sequelize, Webpack, Bootstrap | Jest, Enzyme, Mocha, Chai, Cypress |
+| [Donate, Period ][3]   | Week 11 & 12 (of Makers Academy) full stack group project using the JustGiving API to create a charitable donations platform with React front-end built from scratch (rather than create-react-app) | React, Node, Express, Sequelize, Webpack, Bootstrap | Jest, Enzyme, Mocha, Chai, Cypress |
 | [Bank Tech Test][4]   | Week 10 simple terminal app showcasing test driven development and Object Oriented Design principles | Ruby | RSpec|
 | [News Summary Feed][5]     | Week 7 single page web app to summarise the top headlines via the Guardian API and the Aylien Text Summary API | vanilla JavaScript | vanilla JavaScript |
 | [Rock Paper Scissors][7]     | Week 3 single player web app       | Ruby, Sinatra          | RSpec, Capybara |

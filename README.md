@@ -58,8 +58,8 @@ I have gained expertise in social media, online advertising and online video wit
 
 **Makers Academy** (May 2018 to August 2018)
 - Immersive and highly selective software development course.
-- Focused on OO design in Ruby, JavaScript and Java.
-- TDD approach to software across Jest, Mocha, RSpec, Capybara, Jasmine and Junit.
+- Focused on OO design in Ruby, React, JavaScript and Java.
+- TDD approach to software across Jest, Mocha, RSpec, Capybara, Cypress, Jasmine and Junit.
 - Daily pair programming and multiple team software projects.
 - Committed to using Git.
 
